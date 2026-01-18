@@ -8,7 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 # 导航栏已注释，如需恢复请取消注释下面的项目，并将 main: [] 改为 main:
-main: []
+main:
+  - title: "CV (PDF)"
+    url: /files/cv.pdf
+    
 # - title: "Publications"
 #   url: /publications/
 #

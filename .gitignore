@@ -24,3 +24,5 @@ package-lock.json
 
 docs
 texs
+
+*.log
