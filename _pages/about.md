@@ -72,7 +72,7 @@ My research interests lie at the intersection of artificial intelligence and sci
   <div style="flex: 1; line-height: 1.5; font-size: 0.9em;">
     <strong style="font-size: 0.95em; display: block; margin-bottom: 0.4em;">FluidZero: Mastering Diverse Tasks in Fluid Systems through a Single Generative Model</strong>
     <div style="margin-bottom: 0.4em; color: #555;">Haodong Feng*, <strong>Haoren Zheng*</strong>, Peiyan Hu, Hongyuan Liu, Chenglei Yu, Long Wei, Ruiqi Feng, Jinlong Duan, Dixia Fan, Tailin Wu</div>
-    <div style="margin-bottom: 0.4em; color: #666; font-style: italic;">Submitted to Nature Machine Intelligence</div>
+    <div style="margin-bottom: 0.4em; color: #666; font-style: italic;">Submitted to Nature Machine Intelligence, 2025</div>
     <div style="margin-top: 0.5em;"><a href="https://assets-eu.researchsquare.com/files/rs-6881567/v1/63e5e81e0d8b6c9944a0c58d.pdf" style="margin-right: 1em;">Paper</a> <a href="https://github.com/AI4Science-WestlakeU/FluidZero">Code</a></div>
   </div>
 </div>
